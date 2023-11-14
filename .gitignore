@@ -7,3 +7,9 @@ venv
 *.pyc
 dev.py
 OOyVPP_otto.py
+
+# Ignore images etc
+Figure.png
+SailChart.png
+results.json
+runVPP.py
