@@ -19,7 +19,7 @@ YD41 = Yacht(Name="B0_MK1", # Name Boat Zero MK1
             # scaling mass 6500/ (1.3 ^3)
             # 6500 / 2.37 = 2742kg
             Mass=2742, #Need an estimate Mass : total mass of the yacht (kg)
-            Ff=0.858, #1.5, # avail in coeff sheet, need a name though
+            Ff=0.858, #1.5, # Form factor - avail in coeff sheet
             Fa=0.655, #1.5, # avail in coeff sheet, need a name though
             Boa=3.1, # 4.2, #Bmax in spreadsheet; most likely beam over all
             Loa=9.126, # 12.5, # most likely length overall
